@@ -23,6 +23,10 @@ main{
     gap: 5%;
 }
 
+.half-width{
+    width: 50%;
+}
+
 .title{
     font-size: 4em;
     font-weight: 700;
