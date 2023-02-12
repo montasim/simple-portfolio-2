@@ -1,0 +1,27 @@
+/* roboto font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #707070;
+    text-align: justify;
+}
+
+.margin-bottom{
+    margin-bottom: 9em;
+}
+
+.flex{
+    display: flex;
+}
+
+.title{
+    font-size: 4em;
+    font-weight: 700;
+}
+
+.sub-title{
+    color: #000000;
+    font-size: 1.8em;
+    font-weight: 700;
+}
