@@ -7,6 +7,10 @@ body{
     text-align: justify;
 }
 
+main{
+    margin: 4% 5%;
+}
+
 .margin-bottom{
     margin-bottom: 9em;
 }
